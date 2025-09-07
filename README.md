@@ -18,7 +18,7 @@ A command-line based hotel management system built in **C** that handles custome
 
 ## 📁 Project Structure
 ```
-hotel-management-system/
+C_HOTEL_MANAGEMENT_SYSTEM/
 ├── AUTHENTICATION/
 │ └── Security.c
 ├── CUSTOMER/
