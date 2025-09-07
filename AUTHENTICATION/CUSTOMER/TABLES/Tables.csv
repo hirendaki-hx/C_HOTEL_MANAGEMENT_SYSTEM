@@ -1,0 +1,13 @@
+TableNumber,Capacity,DiningStatus,CustomerID
+1,4,Dining,001
+2,4,Not Dining,-
+3,4,Dining,001
+4,4,Not Dining,-
+5,8,Dining,001
+6,8,Not Dining,-
+7,8,Dining,001
+8,8,Not Dining,-
+9,10,Dining,001
+10,10,Not Dining,-
+11,10,Dining,001
+12,10,Not Dining,-
