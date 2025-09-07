@@ -77,7 +77,7 @@ gcc -o hotel_system Main.c AUTHENTICATION/Security.c CUSTOMER/Customer.c CUSTOME
 ```
 Role	       Password 	Access Level
 Admin	       admin123  	Full system access
-Reception	   desc123	  Customer operations
+Reception	   desc123	    Customer operations
 ```
 ### Data Files
 - Customers.csv: Stores all customer records
