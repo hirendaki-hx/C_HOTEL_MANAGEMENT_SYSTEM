@@ -17,7 +17,7 @@ A command-line based hotel management system built in **C** that handles custome
 - CSV Data Management
 
 ## 📁 Project Structure
-
+```
 hotel-management-system/
 ├── AUTHENTICATION/
 │ └── Security.c
@@ -33,7 +33,7 @@ hotel-management-system/
 ├── DFD.txt
 ├── LICENSE
 └── README.md
-
+```
 
 ## 🚀 Features
 
@@ -75,11 +75,11 @@ gcc -o hotel_system Main.c AUTHENTICATION/Security.c CUSTOMER/Customer.c CUSTOME
 ```
 ### Login Credentials
 
-Role	     Password 	Access Level
-Admin	     admin123  	Full system access
-Reception	  desc123	  Customer operations
+- Role	     Password 	Access Level
+- Admin	     admin123  	Full system access
+- Reception	  desc123	  Customer operations
 
 ### Data Files
--Customers.csv: Stores all customer records
--Tables.csv: Manages table status and assignments
--Waiting.csv: Maintains waiting queue
+- Customers.csv: Stores all customer records
+- Tables.csv: Manages table status and assignments
+- Waiting.csv: Maintains waiting queue
