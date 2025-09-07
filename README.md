@@ -84,3 +84,6 @@ Reception	  | desc123	 |  Customer operations
 - Customers.csv: Stores all customer records
 - Tables.csv: Manages table status and assignments
 - Waiting.csv: Maintains waiting queue
+
+## 📝 License
+- This project is licensed under the MIT License - see the 'LICENSE' file for details.
